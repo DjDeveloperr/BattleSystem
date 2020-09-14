@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\@Code\\C#\\PokeBattleSystem\\BattleSystem\\BattleSystem.csproj",
+      "projectUniqueName": "H:\\BattleSystem\\BattleSystem.csproj",
       "projectName": "BattleSystem",
-      "projectPath": "F:\\@Code\\C#\\PokeBattleSystem\\BattleSystem\\BattleSystem.csproj",
+      "projectPath": "H:\\BattleSystem\\BattleSystem.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "F:\\@Code\\C#\\PokeBattleSystem\\BattleSystem\\obj\\",
+      "outputPath": "H:\\BattleSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

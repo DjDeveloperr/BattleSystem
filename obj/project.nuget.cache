@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0IHFU8vGZMMt1yWwD5ykHJDWVRZkOau8jHSzVPvOlD+L7F9RubwgHKs/M+UUFl8+3tJp3qIAf3Z8cla9thIckQ==",
+  "dgSpecHash": "OzJRsOzkqqBTlVzT1XEtTiGmHoFUhd/fOWyhhXCYv4HPRm6nw0vKAmGycEc3HZyzr53DYbMMxYL8H9yoYUZIrA==",
   "success": true,
-  "projectFilePath": "F:\\@Code\\C#\\PokeBattleSystem\\BattleSystem\\BattleSystem.csproj",
+  "projectFilePath": "H:\\BattleSystem\\BattleSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],

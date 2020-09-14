@@ -1,2 +1,4 @@
 .vscode
 bin
+obj/Debug
+obj/BattleSystem.csproj.nuget.dgspec.json
