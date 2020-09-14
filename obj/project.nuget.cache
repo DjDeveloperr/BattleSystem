@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0IHFU8vGZMMt1yWwD5ykHJDWVRZkOau8jHSzVPvOlD+L7F9RubwgHKs/M+UUFl8+3tJp3qIAf3Z8cla9thIckQ==",
+  "success": true,
+  "projectFilePath": "F:\\@Code\\C#\\PokeBattleSystem\\BattleSystem\\BattleSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

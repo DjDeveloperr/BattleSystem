@@ -1,0 +1,13 @@
+F:\@Code\C#\PokeBattleSystem\C#\bin\Debug\netcoreapp3.1\C#.exe
+F:\@Code\C#\PokeBattleSystem\C#\bin\Debug\netcoreapp3.1\C#.deps.json
+F:\@Code\C#\PokeBattleSystem\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+F:\@Code\C#\PokeBattleSystem\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+F:\@Code\C#\PokeBattleSystem\C#\bin\Debug\netcoreapp3.1\C#.dll
+F:\@Code\C#\PokeBattleSystem\C#\bin\Debug\netcoreapp3.1\C#.pdb
+F:\@Code\C#\PokeBattleSystem\C#\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+F:\@Code\C#\PokeBattleSystem\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+F:\@Code\C#\PokeBattleSystem\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+F:\@Code\C#\PokeBattleSystem\C#\obj\Debug\netcoreapp3.1\C#.csproj.CoreCompileInputs.cache
+F:\@Code\C#\PokeBattleSystem\C#\obj\Debug\netcoreapp3.1\C#.dll
+F:\@Code\C#\PokeBattleSystem\C#\obj\Debug\netcoreapp3.1\C#.pdb
+F:\@Code\C#\PokeBattleSystem\C#\obj\Debug\netcoreapp3.1\C#.genruntimeconfig.cache
